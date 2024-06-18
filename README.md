@@ -2,18 +2,18 @@
 
 ## Description
 
-A simple and user-friendly currency converter web application built with HTML, CSS, and JavaScript. The application uses a real-time currency exchange API to fetch the latest exchange rates, allowing users to convert between different currencies effortlessly.
+This project is a currency converter web application built with HTML, CSS, and JavaScript. It uses an API to fetch real-time exchange rates, enabling users to convert amounts from one currency to another accurately and quickly.
 
 ## Features
 
-- Convert between multiple currencies in real-time
-- Fetches the latest exchange rates from a reliable API
-- Clean and responsive user interface
-- Error handling for invalid input and API errors
+- Convert amounts between multiple currencies
+- Fetch real-time exchange rates from a reliable API
+- Simple and intuitive user interface
+- Responsive design for mobile and desktop use
 
 ## Demo
 
-[Live Demo]( https://varshith345.github.io/Currency-Converter/)
+[Live Demo](https://varshith345.github.io/Currency-Converter/)
 
 ## Screenshots
 
@@ -21,7 +21,42 @@ A simple and user-friendly currency converter web application built with HTML, C
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/currency-converter.git
+    ```bash
+    git clone https://github.com/yourusername/currency-converter.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd currency-converter
+    ```
+
+3. Open `index.html` in your preferred web browser to run the application.
+
+## Usage
+
+1. Enter the amount you want to convert.
+2. Select the currency you want to convert from.
+3. Select the currency you want to convert to.
+4. Click the "Convert" button to see the converted amount.
+
+## API
+
+This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch real-time exchange rates. You need to sign up for a free API key and replace `YOUR_API_KEY` in the `script.js` file with your actual API key.
+
+## Code Overview
+
+### HTML
+
+The `index.html` file contains the structure of the web application, including input fields, dropdown menus for currency selection, and the convert button.
+
+### CSS
+
+The `styles.css` file contains styles to enhance the appearance and layout of the application.
+
+### JavaScript
+
+The `script.js` file contains the logic to interact with the exchange rate API and update the UI based on user inputs.
+
