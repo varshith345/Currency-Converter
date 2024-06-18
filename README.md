@@ -17,7 +17,7 @@ This project is a currency converter web application built with HTML, CSS, and J
 
 ## Screenshots
 
-![Currency Converter Screenshot](https://imgur.com/5XOgAh6)
+![Currency Converter Screenshot](https://github.com/varshith345/Currency-Converter/blob/main/scrnshot.png)
 
 ## Installation
 
