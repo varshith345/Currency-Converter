@@ -13,7 +13,7 @@ A simple and user-friendly currency converter web application built with HTML, C
 
 ## Demo
 
-[Live Demo](https://github.com/varshith345/Currency-Converter/settings/pages)
+[Live Demo]( https://varshith345.github.io/Currency-Converter/)
 
 ## Screenshots
 
