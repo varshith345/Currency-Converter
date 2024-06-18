@@ -17,7 +17,7 @@ This project is a currency converter web application built with HTML, CSS, and J
 
 ## Screenshots
 
-![Currency Converter Screenshot](https://example.com/screenshot.jpg)
+![Currency Converter Screenshot](https://imgur.com/a/tgTefO6)
 
 ## Installation
 
@@ -40,11 +40,11 @@ This project is a currency converter web application built with HTML, CSS, and J
 1. Enter the amount you want to convert.
 2. Select the currency you want to convert from.
 3. Select the currency you want to convert to.
-4. Click the "Convert" button to see the converted amount.
+4. Click the "Get Exchange Rate" button to see the converted amount.
 
 ## API
 
-This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch real-time exchange rates. You need to sign up for a free API key and replace `YOUR_API_KEY` in the `script.js` file with your actual API key.
+This project uses the [ExchangeRate-API](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/) to fetch real-time exchange rates. You need to sign up for a free API key and replace `YOUR_API_KEY` in the `script.js` file with your actual API key.
 
 ## Code Overview
 
